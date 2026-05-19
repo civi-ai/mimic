@@ -87,7 +87,7 @@ We will publish real results as they come.
 **Install**
 
 ```bash
-git clone https://github.com/civiai/mimic.git
+git clone https://github.com/civi-ai/mimic.git
 cd mimic
 pip install anthropic
 ```
