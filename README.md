@@ -1,5 +1,7 @@
 # Mimic
 
+<img src="logo.svg" width="120" alt="Mimic octopus logo">
+
 ### Cognitive infrastructure for AI agents — built in Kuala Lumpur, Malaysia.
 
 Inspired by the mimic octopus — one of nature's most sophisticated shapeshifters, capable of restructuring its body to impersonate different species based on environmental demand. First documented in Southeast Asia in 1998.
